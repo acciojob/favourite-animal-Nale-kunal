@@ -1,2 +1,7 @@
+img {
+  display: block;
+  margin: 50px auto;
+  max-width: 300px;
+}
 
 /* Your CSS Code here. */
